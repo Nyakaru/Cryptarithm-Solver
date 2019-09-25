@@ -20,7 +20,7 @@ In the multiplication problem below, each letter represents a UNIQUE digit. This
     install from https://www.python.org
     ```
 
--   Clone the activo-api repo and cd into it:
+-   Clone the repo and cd into it:
 
     ```
     git clone https://github.com/Nyakaru/Cryptarithm-Solver.git
